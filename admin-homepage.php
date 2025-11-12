@@ -267,4 +267,5 @@ if (!isset($_SESSION['user_email'])) {
         </div>
     </div>
 </body>
+
 </html>
